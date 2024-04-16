@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: nikola234/kiii/app:latest
+          tags: nikola234/kiii
